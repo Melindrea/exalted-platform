@@ -5,7 +5,16 @@ Discussions about functionality for an exalted platform. Both somewhat technical
 
 Feel free to add ideas on things, etc.
 
-Some notes:
+You can help! We're going to need quite a few different kind of characters to test out code on, so here's how to put
+those in:
+
+1. [Install Anathema](http://anathema.github.io/)
+2. In theory, [this folder on Dropbox](https://www.dropbox.com/sh/httj4f1lxv2k43r/RNJvAiBYje) should be shared to upload
+named zip-files (I'd suggest your name and something unique, to avoid clashing)
+3. To export characters, create a new on in Anathema and then *close it* before you try to use the menu to export. It 
+will save as a zip-file called Export.zip, so rename that
+
+**Some notes**
 
 ## Platform #
 Written in PHP and Ember. JavaScript is used when things are dynamic, as in can
